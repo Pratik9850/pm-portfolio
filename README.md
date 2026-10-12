@@ -1,6 +1,6 @@
 # Pratik Sarode | Product portfolio
 
-Product-focused portfolio for an AI Product Engineer profile (insurance claims and fraud/AML). Static site: plain HTML, CSS and a small amount of vanilla JS. No build step.
+Product-focused portfolio for an AI Product Manager profile. Static site: plain HTML, CSS and a small amount of vanilla JS. No build step.
 
 ## Structure
 
